@@ -1,0 +1,3 @@
+[submodule "src/moveit_drake"]
+	path = src/moveit_drake
+	url = git@github.com:kamiradi/moveit_drake.git
